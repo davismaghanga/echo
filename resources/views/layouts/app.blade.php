@@ -86,7 +86,7 @@
 
           <div class="col-md-12" style="margin-bottom: 20px;">
             <div class="text-center">
-              Simple implementation of web sockets from an online tutorial.
+              Simple implementation of web sockets.
             </div>
           </div>
         </div>
